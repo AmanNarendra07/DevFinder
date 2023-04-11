@@ -8,5 +8,3 @@ A simple not-so-responsive-website to find developers across GitHub to find deve
 
 [DEV_FINDER](https://dev_finder.herokuapp.com)
 
-<br><br><br>
-<div align="center"><img  src="https://i.postimg.cc/v8kn9Jf6/Screenshot-2022-10-17-164209.png" width=70% height=70%></div>
